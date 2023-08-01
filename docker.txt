@@ -133,5 +133,5 @@ WebUI=Interface Web
 Writable=Accessible en écriture
 
 ; Note: April 28, 2023 - 2 missing translations
-Lock sortable items=
-Unlock sortable items=
+Lock sortable items=Verouiller les éléments triables
+Unlock sortable items=Déverouiller les objets triables
